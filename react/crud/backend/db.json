@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "livro": "A Montanha Mágica",
+      "autor": "Herbert Caro",
+      "genero": "romance de formação"
+    },
+    {
+      "id": 2,
+      "livro": "Dom Quixote",
+      "autor": "Ernani Ssó ",
+      "genero": "romance psicologico"
+    },
+    {
+      "id": 3,
+      "livro": "Em Busca do Tempo Perdido",
+      "autor": "Marcel Proust",
+      "genero": "Literatura moderna"
+    }
+  ]
+}
